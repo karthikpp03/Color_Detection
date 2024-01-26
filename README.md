@@ -6,6 +6,10 @@
 
 This Python script enables color detection when the mouse cursor is positioned over an image. The code uses the cursor location to determine the exact color and provides its corresponding value in the output window.
 
+## Reference Image
+
+<img src="colorpic.jpg" alt="Dashboard Screenshot" width="600"/>
+
 ## Requirements
 
 Ensure that you have Python installed on your system. You can download and install Python from [python.org](https://www.python.org/downloads/).
